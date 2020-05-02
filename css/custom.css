@@ -1,0 +1,340 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../font/montserrat/Montserrat-Regular.woff'), /* IE9 Compat Modes */ url('../font/montserrat/Montserrat-Regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url('../font/montserrat/Montserrat-Bold.woff'), /* IE9 Compat Modes */ url('../font/montserrat/Montserrat-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Montserrat-Light';
+    src: url('../font/montserrat/Montserrat-Light.woff'), /* IE9 Compat Modes */ url('../font/montserrat/Montserrat-Light.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url('../font/montserrat/Montserrat-Medium.woff'), /* IE9 Compat Modes */ url('../font/montserrat/Montserrat-Medium.woff2') format('woff2');
+}
+
+body{
+    background: #f5f6f9;
+}
+
+.dispa{
+    display: flex;
+    position: relative;
+}
+.dispaJusti{
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputRecherche{
+    width: 350px;
+    border-radius: 4px;
+    background-color: #F5F6F9;
+    margin: 9px 30px 8px 38px ;
+}
+
+.navModife {
+    background: #1489cb;
+}
+.navImage{
+    width: 229px;
+}
+.imgNave{
+    width: 26px;
+}
+.nameProfil {
+    color: #FFFFFF;
+    font-family: Avenir;
+    font-size: 15px;
+    padding-top: 8px;
+    margin-left: 15px;
+    margin-bottom: 0;
+
+}
+.imgProfil{
+    height: 36px;
+    width: 36px;
+    border-radius: 100%;
+    overflow: hidden;
+    margin-top: 0px;
+    margin-left: 22px;
+}
+.activeElement{
+    height: 16px;
+    width: 16px;
+    border: 1px solid #FFFFFF;
+    background-color: #6DD400;
+    position: absolute;
+    top: 20px;
+    left: 47px;
+    border-radius: 100%;
+}
+.iconesNave{
+    margin-top: 4px;
+    margin-right: 20px;
+}
+.imgNave2{
+    width: 22px;
+}
+.dropdown-toggle::after {
+    border-top: 0 !important;
+    border-right: 0 !important;
+    border-bottom: 0 !important;
+    border-left: 0 !important;
+}
+.btnDropModife{
+    background: none;
+    width: 50%;
+    padding: 0;
+    margin-top:4px;
+    margin-left: 5px;
+}
+.dropMenueModife{
+    margin-left: -65px;
+    margin-top: 15px;
+}
+.collapseModife{
+    margin-right: 30px;
+}
+.blockElephant img{
+    margin-left: 40px;
+    width: 90%;
+    margin-bottom: 10%;
+}
+.sectionFooter{
+    padding-top: 5px;
+}
+.coverElement img{
+    margin-top: 50px;
+    width: 96%;
+}
+
+.cardModife{
+    margin-top: -120px;
+    margin-left: 40px;
+    width: 600px;
+    padding: 30px;
+}
+.blockPhoto{
+    width: 90px;
+    height: 90px;
+    overflow: hidden;
+}
+.blockPhoto img{
+    width: 100%;
+}
+.information{
+    width: 78%;
+}
+
+.name {
+    color: #222222;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.poste {
+    color: #222222;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.Localisation{
+    opacity: 0.7;
+    color: #000000;
+    font-size: 12px;
+    font-weight: 300;
+
+}
+.imgLocalisation{
+    margin-top: -20px;
+    padding-right: 5px;
+}
+.BlockLocalisation{
+    display: flex;
+}
+.blockLocalisation1{
+    width: 45%;
+}
+
+.groupFollewers{
+    display: flex;
+    justify-content: space-between;
+}
+.nombre{
+    color: #008DD4;
+    font-size: 24px;
+    font-weight: 900;
+    margin-bottom: 5px;
+}
+.followers{
+    opacity: 0.7;
+    color: #222222;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 15px;
+    text-align: center;
+}
+.blockButtonProfesseurs{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+.btnSuivre {
+    box-sizing: border-box;
+    height: 40px;
+    width: 110px;
+    background: white !important;
+    color: #008DD4 !important;
+    border: 1px solid #008DD4;
+    border-radius: 4px;
+}
+.btnreseau{
+    height: 40px;
+    width: 240px;
+    border-radius: 4px;
+    background-color: #008DD4;
+    color: #ffffff;
+}
+.con-label {
+    display: flex;
+}
+.con-label img{
+    margin-top: -16px;
+}
+
+.labelTextMessage{
+    color: #202841;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: 14px;
+    text-transform: uppercase;
+    padding-left: 5px;
+}
+.navTabsModife{
+    opacity: 0.4;
+    color: #110F24;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: .5rem 4rem !important;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: black !important;
+    opacity: 1 !important;
+    font-weight: bold !important;
+    background: #f5f6f9;
+}
+.sectionTabs {
+    margin-top: 70px;
+}
+.nav-link{
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+}
+.nav-link.active {
+    color: #495057;
+    border-bottom: 4px solid #008DD4 !important;
+    border-top: 0 !important;
+    border-left: 0 !important;
+    border-right: 0 !important;
+}
+.imgCercle img{
+    margin-bottom: 0;
+    margin-top: 5px;
+}
+.presentation{
+    color: #008DD4;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 19px;
+    padding-top: 4px;
+}
+.CardModifeProf {
+    background-color: #ffffff;
+    background-clip: border-box;
+    border-radius: .25rem;
+    box-shadow: -2px -1px 5px 5px rgba(245,246,249,1);
+    margin-top: 30px;
+    padding: 25px 30px 10px 30px;
+}
+.card {
+    border: none !important;
+}
+.BlockImgPresentation{
+    width: 25px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.description{
+    opacity: 0.7;
+    color: #222222;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    margin-bottom: 50px;
+}
+.universite{
+    color: #252525;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 3px;
+
+}
+.annee{
+    color: rgba(37,37,37,0.75);
+    font-size: 14px;
+    font-weight: 300;
+}
+.blockParcour{
+    margin-bottom: 15px;
+}
+.groupe2{
+    margin-bottom: 15px;
+}
+.typeFormation{
+    color: #252525;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 3px;
+}
+.descriptionFormation{
+    color: rgba(37,37,37,0.75);
+    font-size: 14px;
+    font-weight: 300;
+}
+.tab-content{
+    background: #f5f6f9;
+}
+.sectionFooter{
+    padding-top: 5px;
+    background: white;
+    border-top: 1px solid #e2e1e1;
+    margin-top: 90px;
+}
+.BlockLogoFooter{
+    float: right;
+    margin-top: 7px;
+}
+.BlockLogoFooter .imgReseaux{
+    padding-right: 15px;
+}
+.informationMobile{
+    display: none;
+}
+.presentationMobile{
+    display: none;
+}
+

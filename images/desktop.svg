@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="26px" viewBox="0 0 28 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>9EEC3BD4-07C2-4970-B7F5-9EC492D27AE6</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M25.25,0.5 L2.75,0.5 C1.375,0.5 0.25,1.625 0.25,3 L0.25,18 C0.25,19.375 1.375,20.5 2.75,20.5 L11.5,20.5 L9,24.25 L9,25.5 L19,25.5 L19,24.25 L16.5,20.5 L25.25,20.5 C26.625,20.5 27.75,19.375 27.75,18 L27.75,3 C27.75,1.625 26.625,0.5 25.25,0.5 L25.25,0.5 Z M25.25,15.5 L2.75,15.5 L2.75,3 L25.25,3 L25.25,15.5 L25.25,15.5 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="62.5" height="62.5"></rect>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PAGE-PROFESSEUR---COURS" transform="translate(-965.000000, -22.000000)">
+            <g id="Header">
+                <g id="icones" transform="translate(856.000000, 20.000000)">
+                    <g id="ic_group-copy-3" transform="translate(109.000000, 2.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <g id="🎨-Color" mask="url(#mask-2)">
+                            <g transform="translate(-17.250000, -18.250000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <use id="grise" stroke="none" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

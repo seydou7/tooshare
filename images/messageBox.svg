@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="11px" viewBox="0 0 15 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>202CC528-FA18-450F-800C-445D2D78E5A1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M14.7900521,5.18510417 L12.0377604,1.05661458 C11.8059132,0.708876293 11.4156237,0.5 10.9976823,0.5 L4.00231771,0.5 C3.58438197,0.5 3.19409806,0.708873299 2.96226562,1.05661458 L0.209947917,5.18510417 C0.0730489678,5.39042883 0,5.63168522 0,5.87846354 L0,9.25 C0,9.94036458 0.559635417,10.5 1.25,10.5 L13.75,10.5 C14.4403646,10.5 15,9.94036458 15,9.25 L15,5.87846354 C15,5.63168522 14.926951,5.39042883 14.7900521,5.18510417 Z M4.2253125,2.16666667 L10.7747135,2.16666667 L12.9969271,5.5 L9.79166667,5.5 L8.95833333,7.16666667 L6.04166667,7.16666667 L5.20833333,5.5 L2.00307292,5.5 L4.2253125,2.16666667 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="15" height="15"></rect>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PAGE-PROFESSEUR---CLASSROOM" transform="translate(-602.000000, -539.000000)">
+            <g id="card" transform="translate(180.000000, 300.000000)">
+                <g id="content" transform="translate(30.000000, 30.000000)">
+                    <g id="Group" transform="translate(1.000000, 0.000000)">
+                        <g id="Group-2" transform="translate(391.000000, 207.000000)">
+                            <g id="Icon+-label-Copy">
+                                <g id="ic_favorite_border" transform="translate(0.000000, 2.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <g id="Mask"></g>
+                                    <g id="🎨-color" mask="url(#mask-2)">
+                                        <g transform="translate(0.000000, -2.000000)">
+                                            <mask id="mask-4" fill="white">
+                                                <use xlink:href="#path-3"></use>
+                                            </mask>
+                                            <use id="Black" stroke="none" fill="#202841" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

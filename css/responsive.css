@@ -1,0 +1,148 @@
+/******* responsivité ********/
+@media all and (max-width: 767px) {
+    .elemntModifie {
+        width: 70%;
+        padding-top: 30px;
+    }
+    .colElephant{
+        display: none;
+    }
+    .blockFormular {
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    .connecte {
+        font-size: 16px;
+        width: 100%;
+    }
+    .blockFom {
+        width: 100%;
+    }
+    .btnResaux {
+        font-size: 12px;
+    }
+    .blockFom {
+        border-radius: 6px;
+        padding: 33px 30px 10px;
+    }
+    .btnModife {
+        font-size: 14px;
+    }
+    .inputBox::placeholder{
+        font-size: 14px;
+    }
+    .no-compte {
+        margin-bottom: 12px !important;
+        font-size: 14px;
+    }
+    .inscription {
+        font-size: 15px;
+    }
+    .blockMention {
+        display: none;
+    }
+    .BlockLogoFooter {
+        max-width: 100%;
+        margin-top: 17px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .imgCercle{
+        margin-top: 11px;
+    }
+    .inputRecherche {
+        width: 100%;
+        border-radius: 4px;
+        background-color: #F5F6F9;
+        margin: 25px 0px 10px 0px;
+    }
+    .navItemModife{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 5px;
+        margin-bottom: 20px;
+    }
+    .imgProfil {
+        margin-left: 0px;
+    }
+    .activeElement {
+        top: 21px;
+        left: 25px;
+    }
+    .collapseModife {
+        margin-right: unset;
+        margin-top: 13px;
+        margin-bottom: 2px;
+    }
+    .btnDropModife {
+        width: 20px;
+    }
+    .btnDropModife {
+        width: 20px;
+        margin-top: 6px;
+    }
+    .colCercle{
+        width: 56%;
+    }
+    .colIcones{
+        width: 38%;
+    }
+    .sectionFooter {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    .blockMention {
+        margin-left: 35px;
+        max-width: unset !important;
+        margin-top: 5px;
+    }
+    .collapseModife {
+        margin-right: unset;
+        margin-top: 13px;
+        margin-bottom: 2px;
+    }
+    .colElephant{
+        display: none;
+    }
+    .blockFom {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .inputRecherche {
+        width: 100%;
+        border-radius: 4px;
+        background-color: #F5F6F9;
+        margin: 25px 0px 10px 0px;
+    }
+    .imgProfil {
+        margin-left: 0px;
+    }
+    .navItemModife{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+    .BlockLogoFooter {
+        max-width: unset;
+        margin-top: -3px;
+        margin-left: unset;
+    }
+    .elemntModifie {
+        width: 290px;
+        padding-top: 40px;
+    }
+    .activeElement {
+        top: 30px;
+        left: 20px;
+    }
+    .btnDropModife {
+        width: 20px;
+        margin-top: 6px;
+    }
+
+}

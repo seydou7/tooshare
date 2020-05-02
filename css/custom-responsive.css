@@ -1,0 +1,165 @@
+/******* responsivité ********/
+@media all and (max-width: 767px) {
+    body{
+        overflow-x: hidden;
+    }
+    .navImage {
+        width: 130px;
+        margin-top: -5px;
+    }
+    .imgProfil {
+        margin-left: 0px;
+    }
+    .navItemModife{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+    .BlockLogoFooter {
+        max-width: unset;
+        margin-top: -3px;
+        margin-left: unset;
+    }
+    .elemntModifie {
+        width: 290px;
+        padding-top: 40px;
+    }
+    .activeElement {
+        top: 30px;
+        left: 20px;
+    }
+    .btnDropModife {
+        width: 20px;
+        margin-top: 6px;
+    }
+    .coverElement img {
+        margin-top: 50px;
+        width: 100%;
+    }
+    .cardModife {
+        margin-top: -15px;
+        margin-left: 8px;
+        width: 96%;
+        padding: 10px;
+    }
+    .blockPhoto {
+        width: 80px;
+        height: 80px;
+        overflow: hidden;
+    }
+    .name {
+        color: #222222;
+        font-size: 17px;
+        font-weight: 500;
+        margin-bottom: 0px;
+    }
+    .information {
+        width: 78%;
+        margin-left: 14px;
+    }
+    .informationDesktop{
+        display: none;
+    }
+    .informationMobile{
+        display: block;
+    }
+    .BlockLocalisation {
+        margin-top: 13px;
+        padding-left: 10px;
+    }
+    .blockButtonProfesseurs {
+        margin-top: 18px;
+        display: block;
+    }
+    .group-2{
+        display: flex;
+        justify-content: space-between;
+    }
+    .labelTextMessage {
+        font-size: 11px;
+    }
+    .btnSuivre {
+        width: 95px;
+    }
+    .btnreseau {
+        width: 200px;
+    }
+    .presentationDesktop{
+        display: none;
+    }
+    .presentationMobile{
+        display: block;
+    }
+    .myNav {
+        width: 100%;
+        background: #fff;
+        padding-left: 0px;
+        border: 1px solid #00000029;
+        margin-top: 45px;
+    }
+    .myNav-item:not(:first-child) {
+        border-top:1px solid #4d4d4d;
+    }
+    .myNav-link {
+        display:block;
+        padding:8px 5px;
+    }
+    .myNav-content {
+        padding:0 20px;
+        padding-bottom:8px;
+    }
+    .ui-accordion-content {
+        display:none;
+    }
+    .active > .ui-accordion-content {
+        display:block;
+    }
+
+    .myNav-item {
+        position: relative;
+        list-style: none;
+
+    }
+    .myNav-item:before { /* Flèche */
+        content:'';
+        position:absolute;
+        top:17px; right:10px;
+        width:0; height:0;
+        border-style:solid;
+        border-color:transparent;
+        border-width:5px; /* Taille de la flèche */
+        pointer-events:none; /* Clique neutralisé */
+    }
+    .myNav-item:not(.active):before { /* Flèche down */
+        border-bottom-width:0;
+        border-top-color: #1488cb;
+    }
+    .myNav-item.active:before { /* Flèche up */
+        border-top-width:0;
+        border-bottom-color:#1488cb;
+    }
+    .myNav-item.active,
+    .myNav-item:hover {
+        background:#404040; /* État actif et rollover */
+    }
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px) {
+    .imgProfil {
+        margin-left: 0px;
+    }
+    .navItemModife{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 5px;
+        margin-bottom: 15px;
+    }
+    .presentationDesktop{
+        display: none;
+    }
+    .presentationMobile{
+        display: block;
+    }
+
+}

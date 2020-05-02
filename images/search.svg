@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>6C3940D2-82FE-4D74-A350-18A0CEA781DB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M16.375,14.5 L15.3875,14.5 L15.0375,14.1625 C16.2625,12.7375 17,10.8875 17,8.875 C17,4.3875 13.3625,0.75 8.875,0.75 C4.3875,0.75 0.75,4.3875 0.75,8.875 C0.75,13.3625 4.3875,17 8.875,17 C10.8875,17 12.7375,16.2625 14.1625,15.0375 L14.5,15.3875 L14.5,16.375 L20.75,22.6125 L22.6125,20.75 L16.375,14.5 L16.375,14.5 Z M8.875,14.5 C5.7625,14.5 3.25,11.9875 3.25,8.875 C3.25,5.7625 5.7625,3.25 8.875,3.25 C11.9875,3.25 14.5,5.7625 14.5,8.875 C14.5,11.9875 11.9875,14.5 8.875,14.5 L8.875,14.5 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="62.5" height="62.5"></rect>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PAGE-PROFESSEUR---COURS" transform="translate(-967.000000, -23.000000)">
+            <g id="Header">
+                <g id="icones">
+                    <g transform="translate(856.000000, 22.000000)">
+                        <g id="ic_group-copy-3" transform="translate(111.000000, 1.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="🎨-Color" mask="url(#mask-2)">
+                                <g transform="translate(-19.250000, -19.250000)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <use id="grise" stroke="none" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

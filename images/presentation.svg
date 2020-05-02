@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>C30982D0-7157-4BFC-B844-A00BEE03255E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M9,0.375 C5.6276205,0.375 2.875,3.12761989 2.875,6.5 C2.875,8.60773763 3.952265,10.483105 5.58203125,11.5859375 C2.46078646,12.9245414 0.25,16.0211043 0.25,19.625 L2,19.625 C2,15.7481673 5.12316725,12.625 9,12.625 C12.8768327,12.625 16,15.7481673 16,19.625 L17.75,19.625 C17.75,16.0211043 15.5392136,12.9245414 12.4179688,11.5859375 C14.047735,10.483105 15.125,8.60773763 15.125,6.5 C15.125,3.12761989 12.3723795,0.375 9,0.375 Z M9,2.125 C11.4266095,2.125 13.375,4.07339024 13.375,6.5 C13.375,8.9266095 11.4266095,10.875 9,10.875 C6.5733905,10.875 4.625,8.9266095 4.625,6.5 C4.625,4.07339024 6.5733905,2.125 9,2.125 Z" id="path-1"></path>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PAGE-PROFESSEUR---A-PROPOS" transform="translate(-183.000000, -779.000000)">
+            <g id="Contenu" transform="translate(150.000000, 750.000000)">
+                <g id="Description" transform="translate(33.000000, 29.000000)">
+                    <g id="Group-6">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#008DD4" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
