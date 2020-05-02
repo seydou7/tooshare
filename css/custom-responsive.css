@@ -133,15 +133,48 @@
     }
     .myNav-item:not(.active):before { /* Flèche down */
         border-bottom-width:0;
-        border-top-color: #1488cb;
+        border-top-color: black;
     }
     .myNav-item.active:before { /* Flèche up */
         border-top-width:0;
-        border-bottom-color:#1488cb;
+        border-bottom-color:black;
     }
-    .myNav-item.active,
-    .myNav-item:hover {
-        background:#404040; /* État actif et rollover */
+    .navTabsModife {
+        text-align: start !important;
+        padding: 12px 20px !important;
+    }
+    .sectionFooter {
+        padding-top: 10px;
+        padding-bottom: 20px;
+    }
+    .BlockLogoFooter {
+        max-width: 100%;
+        margin-top: 17px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .imgCercle{
+        margin-top: 11px;
+    }
+    .BlockLogoFooter {
+        max-width: 100%;
+        margin-top: 17px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .sectionFooter {
+        padding-top: 5px;
+        margin-top: 50px;
+        padding-bottom: 10px;
+    }
+    .colCercle {
+        width: 50% !important;
+    }
+    .colIcones {
+        width: 40% !important;
+    }
+    .groupe2 {
+        margin-bottom: 0px;
     }
 }
 
