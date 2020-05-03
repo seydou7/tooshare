@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="11px" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>7BC93F01-9C27-488A-8CDA-142EFD5CA2EE</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M9.83333333,0.0833333333 L1.16666667,0.0833333333 C0.570833333,0.0833333333 0.08875,0.570833333 0.08875,1.16666667 L0.0833333333,10.9166667 L2.25,8.75 L9.83333333,8.75 C10.4291667,8.75 10.9166667,8.2625 10.9166667,7.66666667 L10.9166667,1.16666667 C10.9166667,0.570833333 10.4291667,0.0833333333 9.83333333,0.0833333333 L9.83333333,0.0833333333 Z M8.75,6.58333333 L2.25,6.58333333 L2.25,5.5 L8.75,5.5 L8.75,6.58333333 L8.75,6.58333333 Z M8.75,4.95833333 L2.25,4.95833333 L2.25,3.875 L8.75,3.875 L8.75,4.95833333 L8.75,4.95833333 Z M8.75,3.33333333 L2.25,3.33333333 L2.25,2.25 L8.75,2.25 L8.75,3.33333333 L8.75,3.33333333 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="27.0833333" height="27.0833333"></rect>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.398204985">
+        <g id="HOMEPAGE" transform="translate(-369.000000, -743.000000)">
+            <g id="MENU-GAUCHE" transform="translate(150.000000, 70.000000)">
+                <g id="Group-4" transform="translate(15.000000, 657.137664)">
+                    <g id="Amis">
+                        <g id="Solid/angle-right" transform="translate(204.000000, 15.862336)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask"></g>
+                            <g id="🎨-Color" mask="url(#mask-2)">
+                                <g transform="translate(-8.041667, -8.041667)">
+                                    <mask id="mask-4" fill="white">
+                                        <use xlink:href="#path-3"></use>
+                                    </mask>
+                                    <use id="Black" stroke="none" fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
