@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>6E4C8697-C884-4582-BA46-9E661980746E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="5 8.03684211 8.09 10 7.27 6.3 10 3.81052632 6.405 3.48947368 5 0 3.595 3.48947368 0 3.81052632 2.73 6.3 1.91 10"></polygon>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HOMEPAGE" transform="translate(-256.000000, -1170.000000)">
+            <g id="MENU-GAUCHE" transform="translate(150.000000, 70.000000)">
+                <g id="cours-#1" transform="translate(13.000000, 1034.000000)">
+                    <g id="notation" transform="translate(93.000000, 66.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFAD00" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

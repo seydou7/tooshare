@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>DDA02CA4-78D8-4DE7-9F1C-F0D87E0B8A16</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M59,3.81052632 L55.405,3.48421053 L54,0 L52.595,3.48947368 L49,3.81052632 L51.73,6.3 L50.91,10 L54,8.03684211 L57.09,10 L56.275,6.3 L59,3.81052632 L59,3.81052632 Z M54,7.05263158 L54,2.15789474 L54.855,4.28421053 L57.045,4.48421053 L55.385,6 L55.885,8.25263158 L54,7.05263158 L54,7.05263158 Z" id="path-1"></path>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HOMEPAGE" transform="translate(-305.000000, -1170.000000)">
+            <g id="MENU-GAUCHE" transform="translate(150.000000, 70.000000)">
+                <g id="cours-#1" transform="translate(13.000000, 1034.000000)">
+                    <g id="notation" transform="translate(93.000000, 66.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFAD00" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
