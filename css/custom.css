@@ -337,4 +337,284 @@ body{
 .presentationMobile{
     display: none;
 }
+.rectangle {
+    height: 732px;
+    width: 310px;
+    background-color: #FFFFFF;
+}
 
+.filtres {
+    height: 18px;
+    width: 55px;
+    color: #252525;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-left: 20px;
+}
+
+.shape {
+    height: 15.27px;
+    width: 14px;
+    background-color: #000000;
+}
+
+.line {
+    box-sizing: border-box;
+    height: 1px;
+    width: 310px;
+    border: 1px solid #CCCED0;
+}
+
+.components-list-filter-compone {
+    height: 175px;
+    width: 290px;
+}
+
+.label {
+    height: 24px;
+    width: 200px;
+    color: #110F24;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-left: 22px;
+}
+
+.group {
+    height: 136px;
+    width: 140px;
+    margin-left: 22px;
+}
+
+.item-1 {
+    color: #110F24;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 20px;
+
+}
+
+.line-1 {
+    box-sizing: border-box;
+    height: 1px;
+    width: 310px;
+    border: 1px solid #CCCED0;
+}
+
+.rectangle-copy {
+    height: 276px;
+    width: 797px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.video {
+    height: 276px;
+    width: 270px;
+}
+
+.mooc {
+    height: 19px;
+    width: 270px;
+    color: #008DD4;
+    font-family: Futura;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 19px;
+    margin-top: 15px;
+}
+
+.photoshop-realiser {
+    height: 48px;
+    width: 487px;
+    color: #222222;
+    font-family: Futura;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 25px;
+}
+
+.lorem-ipsum-dolor-si {
+    height: 69px;
+    width: 487px;
+    color: #222222;
+    font-family: Futura;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 16px;
+}
+
+.bouton {
+    height: 40px;
+    width: 170px;
+}
+
+.voir-le-cours {
+    height: 16px;
+    width: 108px;
+    color: #FFFFFF;
+    font-family: "Futura Hv BT";
+    font-size: 14px;
+    font-weight: 900;
+    letter-spacing: 0;
+    line-height: 16px;
+
+}
+
+.rectangle-button {
+    height: 40px;
+    width: 170px;
+    border-radius: 4px;
+    background-color: #008DD4;
+}
+
+.mise-en-ligne-le-11 {
+    height: 15px;
+    width: 147px;
+    color: #242A42;
+    font-family: Futura;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-left: 15px;
+}
+
+.debute-le-12-06-20 {
+    height: 15px;
+    width: 161px;
+    color: #242A42;
+    font-family: Futura;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-left: 70px;
+}
+
+.profil {
+    height: 40px;
+    width: 194px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.oval {
+    height: 40px;
+    width: 40px;
+}
+
+.rectangle-video {
+    height: 276px;
+    width: 270px;
+    background-color: rgba(47,50,52,0.8);
+}
+
+.accueil-nos-cours {
+    height: 13px;
+    width: 158px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 13px;
+}
+
+.nos-cours-plus-de-6 {
+    height: 25px;
+    width: 212px;
+    color: #222222;
+    font-family: Futura;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.09px;
+    line-height: 25px;
+}
+
+.path-2 {
+    box-sizing: border-box;
+    height: 2px;
+    width: 226px;
+    border: 1px solid #008DD4;
+}
+
+.presentation-Desktop{
+    margin-left: 70px;
+}
+
+.de-mariam-ndiaye-s {
+    height: 13px;
+    width: 144px;
+    color: #544837;
+    font-family: Montserrat;
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: 0;
+    margin-left: 50px;
+}
+
+.icon-icon-checkbox-unchecked {
+    height: 24px;
+    width: 24px;
+    margin-right: 10px;
+}
+
+.item-2 {
+    color: #110F24;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.item-3 {
+    color: #110F24;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.item-4 {
+    color: #110F24;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.item-4-copy {
+    color: #110F24;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+.border {
+    box-sizing: border-box;
+    height: 32px;
+    width: 255px;
+    border: 1px solid #ECECEE;
+    border-radius: 4px;
+    background-color: rgba(255,255,255,0);
+    margin-left: 20px;
+    margin-bottom:10px ;
+}
