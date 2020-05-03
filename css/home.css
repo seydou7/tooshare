@@ -1,0 +1,358 @@
+body {
+    background-color: #f5f5f9;
+}
+
+.home-content {
+    display: flex;
+    margin: 0px 50px;
+}
+
+.home-content aside {
+    width: 265px;
+    background-color: #fff;
+    padding: 15px;
+}
+
+.home-content aside .home-profile {
+    padding-top: 30px;
+}
+
+.home-content aside .home-profile img {
+    width: 68px;
+}
+
+.home-content aside .home-profile .profile-txt {
+    margin-top: 15px;
+    color: #222222;
+}
+
+.home-content aside .home-profile .profile-txt .profile-name {
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.home-content aside .home-profile .profile-txt .profile-desc {
+    font-size: 12px;
+}
+
+.home-content aside .home-profile .profile-txt .update-profile {
+    color: #008dd4;
+    font-size: 8px;
+}
+
+.home-content aside .home-profile .profile-status {
+    margin-top: 20px;
+}
+
+.home-content aside .home-profile .profile-status .count {
+    padding: 0px 10px;
+    line-height: 1;
+}
+
+.home-content aside .home-profile .profile-status .count:first-child {
+    border-right: 2px solid #979797;
+}
+
+.home-content aside .home-profile .profile-status .count .nbr {
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.home-content aside .home-profile .profile-status .count .libelle {
+    font-size: 10px;
+    font-weight: 600;
+}
+
+.home-content aside .home-profile .profile-bloc {
+    margin-top: 30px;
+    padding-top: 30px;
+    border-top: 1px solid #f5f6f9;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-title a {
+    font-size: 12px;
+    color: #008dd4;
+    text-decoration: underline;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .classroom,
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .friend,
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours {
+    margin-bottom: 15px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .classroom:last-child,
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .friend:last-child,
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours:last-child {
+    margin-bottom: 0;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .classroom .classroom-img {
+    margin-right: 15px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .classroom .classroom-img img {
+    width: 60px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .classroom .classroom-desc .classroom-title {
+    font-size: 12px;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .classroom .classroom-desc .classroom-type {
+    color: #fff;
+    border-radius: 2px;
+    padding: 5px 12px;
+    font-size: 6px;
+    width: fit-content;
+    width: -moz-fit-content;
+    margin-top: 15px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .classroom .classroom-desc .classroom-type.bgred {
+    background-color: #fa6342;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .classroom .classroom-desc .classroom-type.bgblue {
+    background-color: #008dd4;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .friend .friend-image,
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours .cours-image {
+    margin-right: 10px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .friend .friend-image img {
+    width: 42px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .friend .friend-desc {
+    flex: 1;
+    color: #222222;
+    font-size: 12px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .friend .friend-desc .friend-title {
+    font-weight: 900;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .friend .friend-message {
+    margin-left: 10px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .friend .friend-message img {
+    width: 11px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours .cours-image img {
+    width: 83px;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours .cours-desc {
+    flex: 1;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours .cours-desc .cours-title {
+    font-size: 9px;
+    color: #544837;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours .cours-desc .cours-title span {
+    color: #008dd4;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours .cours-desc .cours-txt {
+    margin: 5px 0px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.home-content aside .home-profile .profile-bloc .profile-bloc-desc .cours .cours-desc .stars img {
+    width: 10px;
+}
+
+.home-content .page-content{
+    padding: 30px 10px;
+    padding-right: 0;
+    flex: 1;
+}
+
+.home-content .page-content .bloc-new{
+    padding: 20px 15px;
+    background-color: #fff;
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 20px;
+}
+
+.home-content .page-content .bloc-new .profile-image img{
+    height: 40px;
+
+}
+
+.home-content .page-content .bloc-new .new-input{
+    flex: 1;
+    height: 40px;
+    border: 0;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.home-content .page-content .bloc-new .new-image img{
+    width: 20px;
+}
+.home-content .page-content .bloc-show{
+    background-color: #008DD4;
+    border-radius: 2px;
+    padding: 15px;
+    color: #fff;
+}
+
+.home-content .page-content .bloc-show .show-title{
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.home-content .page-content .bloc-show .show-item{
+    padding: 0px 5px;
+    height: 48px;
+    background-color: #fff;
+    border-radius: 4px;
+    color: #6D6A6A;
+    margin-left: 15px;
+    font-size: 14px;
+    flex: 1;
+}
+
+.home-content .page-content .bloc-show .show-item .show-txt{
+    margin: 0px 5px;
+    flex: 1;
+}
+.home-content .page-content .page-bloc{
+    margin: 30px 0px;
+}
+
+.home-content .page-content .page-bloc .bloc-title{
+    font-size: 16px;
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+.home-content .page-content .page-bloc .bloc-title a{
+    font-size: 12px;
+    color: #008DD4;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item{
+    width: 24%;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-image{
+    position: relative;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-image .principale{
+    width: 100%;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-image .autor{
+    position: absolute;
+    bottom: -10px;
+    left: 10px;
+    width: 27px;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-desc{
+    padding: 15px 10px;
+    padding-bottom: 10px;
+    background-color: #fff;
+    border-bottom: 1px solid #F5F6F9;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-desc .author{
+    font-size: 10px;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-desc .cours-title{
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px 0px;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-icones{
+    background-color: #fff;
+    padding: 15px 10px;
+    font-size: 8px;
+    color: #008DD4;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-icones .ico-item{
+    margin-right: 20px;
+}
+
+.home-content .page-content .page-bloc .list-cours .cours-item .cours-icones .ico-item img{
+    margin-right: 5px;
+    width: 8px;
+}
+
+.home-content .page-content .a_la_une{
+    background-color: #008DD4;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.home-content .page-content .a_la_une .alaune-desc {
+    padding: 15px 40px;
+    padding-right: 0;
+}
+
+.home-content .page-content .a_la_une .alaune-desc .tilte{
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.home-content .page-content .a_la_une .alaune-desc .desc{
+    margin: 20px 0px;
+    font-size: 12px;
+}
+
+.home-content .page-content .a_la_une .alaune-desc .btn{
+    background-color: #fff;
+    color: #008DD4;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.home-content .page-content .a_la_une .illustration{
+    margin-left: 20px;
+}
+
+.home-content .page-content .a_la_une .illustration img{
+    width: 250px;
+}
+
+.home-content .page-content .list-ecole{
+    background-color: #fff;
+    padding: 5px 10px;
+}
+
+.home-content .page-content .list-ecole .ecole{
+    margin-right: 20px;
+}
+
+.home-content .page-content .list-ecole .ecole img{
+    height: 83px;
+}

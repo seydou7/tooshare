@@ -492,15 +492,169 @@ width: 100%;
     color: #110F24;
     font-family: 'Montserrat';
     font-size: 20px;
-    font-weight: bold;
-    line-height: normal;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
-
+.etoile{
+    font-size: 30px;
+    cursor: pointer;
+    color: #FFAD00 !important;
+}
 .etoileBlock{
     display: inline-block;
 }
 .gold:before{
     content: '\2605';
     position: absolute;
+}
+.btnCours{
+    background-color: #1489cb;
+    padding: 7px 30px !important;
+    margin-top: 50px !important;
+}
+.formFiltreClassroom{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    margin-top: 35px;
+    padding-right: 245px;
+}
+.filterClassInput1 {
+    height: 49px;
+    width: 460px !important;
+    border-radius: 4px !important;
+    background-color:#ECECEC !important;
+}
+.filterClassInput2 {
+    height: 48px;
+    width: 206px !important;
+    border-radius: 4px;
+    background-color: #ECECEC;
+    color: #999898;
+    font-size: 14px;
+    border: 1px solid #52525236;
+}
+.classroom{
+    display: flex;
+    padding: 14px 20px;
+}
+.apprenant{
+    opacity: 0.7;
+    color: #222222;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+}
+.cardClassroom{
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 1px 0 rgba(178,178,178,0.5);
+    position: relative;
+    margin-bottom: 30px;
+
+}
+.imgClass{
+    height: 72px;
+    width: 72px;
+    overflow: hidden;
+    border-radius: 100%;
+    border: 1px solid white;
+    margin-right: 16px;
+    margin-bottom: 0;
+}
+.imgClass img{
+    width: 100%;
+}
+.textClass{
+    color: #222222;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: -0.09px;
+    line-height: 21px;
+    margin-bottom: 10px;
+}
+.btnMyclassroom{
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 9px;
+    line-height: 20px;
+    text-align: center;
+    border: 1px solid #fa6342;
+    border-radius: 4px;
+    background-color: #fa6342 !important;
+    padding: 2px 10px;
+}
+.btnMyclassroomToo{
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 9px;
+    line-height: 20px;
+    text-align: center;
+    border: 1px solid #008DD4;
+    border-radius: 4px;
+    background-color: #008DD4;
+    padding: 2px 10px;
+}
+.numberClass{
+    color: #008DD4;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 900;
+    margin-bottom: 3px;
+    margin-top: 9px;
+}
+.imgPlus{
+    position: absolute;
+    right: 20px;
+    top: 12px;
+}
+.classroomType{
+    width: 53%;
+}
+.classroomApprenants{
+    width: 15%;
+    text-align: center;
+}
+.imgPubProfil{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    overflow: hidden;
+    border: 1px solid white;
+    margin-right: 15px;
+}
+.imgPubProfil img{
+    width: 100%;
+}
+.charle{
+    color: #148ACB;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.dateTimePub{
+    color: #919EAB;
+    font-size: 10px;
+}
+.debutPub{
+    display: flex;
+}
+.paragraphe1{
+    color: #202841;
+    font-size: 14px;
+}
+.cardPub1{
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 1px 0 rgba(178,178,178,0.5);
+    position: relative;
+    margin-bottom: 20px;
+    position: relative;
+    margin-right: 40px;
+    padding: 16px 20px;
+}
+.imgPub1{
+    width: 100%;
+}
+.publicationBlock{
+    padding-top: 35px;
 }

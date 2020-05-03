@@ -176,6 +176,87 @@
     .groupe2 {
         margin-bottom: 0px;
     }
+    .formFiltre {
+        display: block !important;
+    }
+    .contentCours {
+        margin-top: 5px;
+    }
+    #domaine1 {
+        width:100% !important;
+    }
+    #domaine2 {
+        width: 100%;
+    }
+    #domaine3 {
+        width: 100%;
+    }
+    .live {
+        width: 60%;
+    }
+    .courLive {
+        display: block;
+    }
+    .imgLive {
+        width: 100%;
+    }
+    .blockDomaine {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .calendar {
+        width: 50%;
+    }
+    .decriptionProf {
+        font-size: 16px;
+    }
+    .btnCours {
+        margin-top: 30px !important;
+        margin-bottom: 30px;
+    }
+    .imgBlockcours {
+        height: auto;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .mb-5, .my-5 {
+        margin-bottom: 2rem!important;
+    }
+    .formFiltreClassroom{
+        display: block;
+        margin-bottom: 15px;
+        margin-top: 0;
+        padding-right: 0;
+    }
+    .filterClassInput1 {
+        width: 100% !important;
+    }
+    .filterClassInput2 {
+        width: 100%!important;
+    }
+    .textClass {
+        color: #222222;
+        font-size: 13px;
+    }
+    .classroomType {
+        width: 50%;
+    }
+    .numberClass {
+        font-size: 22px;
+        margin-bottom: 0px;
+        margin-top: 2px;
+    }
+    .imgPlus {
+        right: 10px;
+        top: 10px;
+    }
+    .apprenant {
+        font-size: 11px;
+    }
+    .classroomApprenants {
+        width: 28%;
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 1023px) and (min-width: 768px) {
@@ -194,5 +275,76 @@
     .presentationMobile{
         display: block;
     }
+    .contentCours {
+        margin-top: 5px;
+    }
+    body {
+        background: #f5f6f9;
+        overflow-x: hidden;
+    }
+    .myNav {
+        width: 100%;
+        background: #fff;
+        padding-left: 0px;
+        border: 1px solid #00000029;
+        margin-top: 45px;
+    }
+    .myNav-item:not(:first-child) {
+        border-top:1px solid #4d4d4d;
+    }
+    .myNav-link {
+        display:block;
+        padding:8px 5px;
+    }
+    .myNav-content {
+        padding:0 20px;
+        padding-bottom:8px;
+    }
+    .ui-accordion-content {
+        display:none;
+    }
+    .active > .ui-accordion-content {
+        display:block;
+    }
+
+    .myNav-item {
+        position: relative;
+        list-style: none;
+
+    }
+    .myNav-item:before { /* Flèche */
+        content:'';
+        position:absolute;
+        top:17px; right:10px;
+        width:0; height:0;
+        border-style:solid;
+        border-color:transparent;
+        border-width:5px; /* Taille de la flèche */
+        pointer-events:none; /* Clique neutralisé */
+    }
+    .myNav-item:not(.active):before { /* Flèche down */
+        border-bottom-width:0;
+        border-top-color: black;
+    }
+    .myNav-item.active:before { /* Flèche up */
+        border-top-width:0;
+        border-bottom-color:black;
+    }
+    .navTabsModife {
+        text-align: start !important;
+        padding: 12px 20px !important;
+    }
+    .live {
+        width: 30%;
+    }
+    .imgBlockcours {
+        height: auto;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .filterClassInput1 {
+        width: 100% !important;
+    }
+
 
 }
