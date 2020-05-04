@@ -337,284 +337,650 @@ body{
 .presentationMobile{
     display: none;
 }
-.rectangle {
-    height: 732px;
-    width: 310px;
-    background-color: #FFFFFF;
+.filtre{
+    color: #222222;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
 }
-
-.filtres {
-    height: 18px;
-    width: 55px;
-    color: #252525;
-    font-family: Montserrat;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 18px;
-    margin-left: 20px;
-}
-
-.shape {
-    height: 15.27px;
-    width: 14px;
-    background-color: #000000;
-}
-
-.line {
-    box-sizing: border-box;
-    height: 1px;
-    width: 310px;
-    border: 1px solid #CCCED0;
-}
-
-.components-list-filter-compone {
-    height: 175px;
-    width: 290px;
-}
-
-.label {
-    height: 24px;
-    width: 200px;
-    color: #110F24;
-    font-family: Montserrat;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 24px;
-    margin-left: 22px;
-}
-
-.group {
-    height: 136px;
-    width: 140px;
-    margin-left: 22px;
-}
-
-.item-1 {
-    color: #110F24;
-    font-family: Montserrat;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 20px;
-
-}
-
-.line-1 {
-    box-sizing: border-box;
-    height: 1px;
-    width: 310px;
-    border: 1px solid #CCCED0;
-}
-
-.rectangle-copy {
-    height: 276px;
-    width: 797px;
-    border-radius: 5px;
-    background-color: #FFFFFF;
-    margin-left: 70px;
-    margin-top: 20px;
-}
-
-.video {
-    height: 276px;
-    width: 270px;
-}
-
-.mooc {
-    height: 19px;
-    width: 270px;
-    color: #008DD4;
-    font-family: Futura;
+.plateforme{
+    opacity: 0.7;
+    color: #222222;
     font-size: 16px;
     font-weight: 300;
-    letter-spacing: 0;
-    line-height: 19px;
-    margin-top: 15px;
 }
-
-.photoshop-realiser {
+.contentCours{
+    margin-top: 40px;
+}
+.formFiltre{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+#domaine1{
+    height: 48px !important;
+    width: 486px !important;
+    border-radius: 4px !important;
+    background-color: #FFFFFF !important;
+}
+#domaine2{
     height: 48px;
-    width: 487px;
-    color: #222222;
-    font-family: Futura;
-    font-size: 18px;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 25px;
-}
-
-.lorem-ipsum-dolor-si {
-    height: 69px;
-    width: 487px;
-    color: #222222;
-    font-family: Futura;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 16px;
-}
-
-.bouton {
-    height: 40px;
-    width: 170px;
-}
-
-.voir-le-cours {
-    height: 16px;
-    width: 108px;
-    color: #FFFFFF;
-    font-family: "Futura Hv BT";
-    font-size: 14px;
-    font-weight: 900;
-    letter-spacing: 0;
-    line-height: 16px;
-
-}
-
-.rectangle-button {
-    height: 40px;
-    width: 170px;
+    width: 206px;
     border-radius: 4px;
-    background-color: #008DD4;
+    background-color: #FFFFFF;
+    color: #999898;
+    font-size: 14px;
+    border: 1px solid #52525236;
 }
+#domaine3 {
+    height: 48px;
+    width: 171px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
 
-.mise-en-ligne-le-11 {
-    height: 15px;
-    width: 147px;
-    color: #242A42;
-    font-family: Futura;
-    font-size: 12px;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-left: 15px;
 }
-
-.debute-le-12-06-20 {
-    height: 15px;
-    width: 161px;
-    color: #242A42;
-    font-family: Futura;
-    font-size: 12px;
-    font-weight: 500;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-left: 70px;
+.btnModife2{
+    margin-top: 5px;
+    border-radius: 4px;
+    background-color: #148ACB !important;
 }
-
-.profil {
-    height: 40px;
-    width: 194px;
-    margin-left: 20px;
-    margin-top: 20px;
+.niveau::placeholder{
+    color: #999898;
+    font-family: Avenir;
+    font-size: 14px;
 }
-
-.oval {
-    height: 40px;
-    width: 40px;
-}
-
-.rectangle-video {
-    height: 276px;
-    width: 270px;
-    background-color: rgba(47,50,52,0.8);
-}
-
-.accueil-nos-cours {
-    height: 13px;
-    width: 158px;
-    color: #000000;
-    font-family: Montserrat;
-    font-size: 10px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 13px;
-}
-
-.nos-cours-plus-de-6 {
-    height: 25px;
-    width: 212px;
+.live{
     color: #222222;
-    font-family: Futura;
     font-size: 16px;
     font-weight: bold;
     letter-spacing: -0.09px;
     line-height: 25px;
+    border-bottom: 1px solid #008DD4;
+    width: 20%;
+    padding-bottom: 15px;
+}
+.courLive{
+    display: flex;
+    margin-bottom: 30px;
+}
+.timeBlock{
+    display: flex;
+}
+.calendar{
+    display: flex;
+    width: 12%;
+
+}
+.Time{
+    display: flex;
+    width: 30%;
+}
+.imgLive{
+    position: relative;
+    width: 500px;
+}
+.imgLive img{
+    width: 100% !important;
+    height: 100% ;
+}
+.colorElement{
+    background: rgba(20,138,203,0.5);
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.domaineLive{
+    color: #008DD4;
+    font-size: 16px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 3px;
+}
+.descriptionLive{
+    color: #222222;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.dateTime{
+    color: #242A42;
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+.calendar img{
+    margin-top: 2px;
+    height: 13px;
+}
+.Time img{
+    margin-top: 2px;
+    height: 13px;
+}
+.text3{
+    color: #222222;
+    font-size: 14px;
+    font-weight: 300;
+}
+.blockDomaine{
+    padding-left: 20px;
+    padding-top: 12px;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .25rem;
+    padding-right: 20px;
+}
+.imgBlockcours{
+    height: 196px;
+    width: 348px;
+}
+.imgBlockcours img{
+width: 100%;
+}
+.nomProf{
+    color: #544837;
+    font-family: 'Montserrat';
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+.prenom{
+    color: #008DD4;
+}
+.decriptionProf {
+    color: #110F24;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.etoile{
+    font-size: 30px;
+    cursor: pointer;
+    color: #FFAD00 !important;
+}
+.etoileBlock{
+    display: inline-block;
+}
+.gold:before{
+    content: '\2605';
+    position: absolute;
+}
+.btnCours{
+    background-color: #1489cb;
+    padding: 7px 30px !important;
+    margin-top: 50px !important;
+}
+.formFiltreClassroom{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    margin-top: 35px;
+    padding-right: 245px;
+}
+.filterClassInput1 {
+    height: 49px;
+    width: 460px !important;
+    border-radius: 4px !important;
+    background-color:#ECECEC !important;
+}
+.filterClassInput2 {
+    height: 48px;
+    width: 206px !important;
+    border-radius: 4px;
+    background-color: #ECECEC;
+    color: #999898;
+    font-size: 14px;
+    border: 1px solid #52525236;
+}
+.classroom{
+    display: flex;
+    padding: 14px 20px;
+}
+.apprenant{
+    opacity: 0.7;
+    color: #222222;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+}
+.cardClassroom{
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 1px 0 rgba(178,178,178,0.5);
+    position: relative;
+    margin-bottom: 30px;
+
+}
+.imgClass{
+    height: 72px;
+    width: 72px;
+    overflow: hidden;
+    border-radius: 100%;
+    border: 1px solid white;
+    margin-right: 16px;
+    margin-bottom: 0;
+}
+.imgClass img{
+    width: 100%;
+}
+.textClass{
+    color: #222222;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: -0.09px;
+    line-height: 21px;
+    margin-bottom: 10px;
+}
+.btnMyclassroom{
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 9px;
+    line-height: 20px;
+    text-align: center;
+    border: 1px solid #fa6342;
+    border-radius: 4px;
+    background-color: #fa6342 !important;
+    padding: 2px 10px;
+}
+.btnMyclassroomToo{
+    color: #FFFFFF;
+    font-family: 'Montserrat';
+    font-size: 9px;
+    line-height: 20px;
+    text-align: center;
+    border: 1px solid #008DD4;
+    border-radius: 4px;
+    background-color: #008DD4;
+    padding: 2px 10px;
+}
+.numberClass{
+    color: #008DD4;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: 900;
+    margin-bottom: 3px;
+    margin-top: 9px;
+}
+.imgPlus{
+    position: absolute;
+    right: 20px;
+    top: 12px;
+}
+.classroomType{
+    width: 53%;
+}
+.classroomApprenants{
+    width: 15%;
+    text-align: center;
+}
+.imgPubProfil{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    overflow: hidden;
+    border: 1px solid white;
+    margin-right: 15px;
+}
+.imgPubProfil img{
+    width: 100%;
+}
+.charle{
+    color: #148ACB !important;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.dateTimePub{
+    color: #919EAB;
+    font-size: 10px;
+}
+.debutPub{
+    display: flex;
+}
+.paragraphe1{
+    color: #202841;
+    font-size: 14px;
+}
+.cardPub1{
+    position: relative;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 1px 0 rgba(178,178,178,0.5);
+    margin-bottom: 20px;
+    margin-right: 32px;
+    padding: 16px 20px;
+}
+.imgPub1{
+    width: 100%;
+}
+.publicationBlock{
+    padding-top: 35px;
+}
+.reactionImage{
+    display: flex;
+    width: 27%;
+    margin-top: 4px;
+    justify-content: space-between;
+}
+.reaction{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    align-items: center;
+}
+.groupImage{
+    display: flex;
+    margin-right: 15px;
+}
+.numberReaction{
+    opacity: 0.31;
+    color: #000000;
+    font-size: 12px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+.Blockcom{
+    display: flex;
+}
+.Blockcom img{
+    height: 16px;
+    width: 20px;
+}
+.imgGroupCom{
+    height: 25px;
+    width: 25px;
+    border-radius: 100%;
+    overflow: hidden;
+    border: 1px solid white;
+    margin-right: -15px;
+    margin-top: 4px;
+}
+.imgGroupCom img{
+    width: 100%;
 }
 
-.path-2 {
+.blocNew{
+    padding: 20px 2px 10px;
+    background-color: #fff;
+    width: 100%;
+    border-radius: 6px;
+    position: relative;
+}
+.blocNew input{
+    width: 100%;
+    flex: 1;
+    height: 40px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid #EDF1F6;
+    border-radius: 100px;
+}
+.profileImage{
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+}
+.profileImage img{
+    width: 100%;
+}
+.blocNew .new-image{
+    position: absolute;
+    right: 40px;
+    width: 20px;
+}
+.blocNew .new-image img{
+    width: 100%;
+}
+.pubCours{
+    color: #202841;
+    font-size: 14px;
+    letter-spacing: 0;
+    padding-left: 10px;
+    margin-bottom: 0px;
+}
+.imgPlaye{
+    position: absolute;
+    margin: auto;
+}
+.imgElemnt{
+    position: relative;
+}
+.titre-cours {
+    color: #202841;
+    font-weight: 500;
+    font-size: 15px;
+}
+.descriptionCours{
+    color: #202841;
+    font-size: 14px;
+}
+.btnModife3{
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 900;
+    float: right;
+    border-radius: 4px;
+    background-color: #008DD4;
+    padding: 12px 15px;
+    margin-bottom: 14px;
+    margin-top: 8px;
+}
+.colModif1 {
+    margin-left: -10px !important;
+}
+.imgPlaye {
+    position: absolute;
+    top: 35%;
+    left: 40%;
+}
+.descriptionPartage{
+    border-radius: 0 0 8px 8px;
+    background-color: #FFFFFF;
+    box-shadow: 0 0 0 1px rgba(63,63,68,0.05);
+    padding: 20px 10px 2px 20px;
+    margin-bottom: 20px;
+}
+.descriptionPartage p{
+    color: #202841;
+    font-size: 14px;
+}
+.commentaire{
+    margin-top: 33px;
+}
+.commentaire .elementCom {
+    display: flex;
+}
+.commentaire .elementCom .groupe5 .nom{
+    color: #202841;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.commentaire .elementCom .groupe5 .text{
+    color: #202841;
+    font-size: 11px;
+    margin-bottom: 18px;
+}
+.commentaire .elementCom .groupe5{
+    width: 90%;
+}
+
+.groupe5 .date{
+    display: flex;
+}
+.groupe5 .date .groupe7{
+    display: flex;
+    width: 10%;
+    justify-content: space-between;
+    margin-left: 25px;
+}
+.groupe5 .date .groupe7 img{
+    height: 12px;
+    margin-top: 2px;
+}
+.groupe5 .date .dateText{
+    color: #919EAB;
+    font-size: 10px;
+    margin-bottom: 12px;
+}
+.margeElement{
+    margin-bottom: 18px;
+}
+.footer-card-Block{
+    background-color: #E8E8E8;
+    margin-top: -90px;
+    position: relative;
+    border-radius: 0 0 8px 8px;
+    padding: 20px 10px 2px 20px;
+}
+.hrModife3 {
     box-sizing: border-box;
     height: 2px;
-    width: 226px;
-    border: 1px solid #008DD4;
+    border: 1px solid #979797;
+    opacity: 0.2;
+    margin-top: 28px;
 }
-
-.presentation-Desktop{
-    margin-left: 70px;
+.evenement{
+    color: #222222;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.09px;
+    margin-bottom: 15px;
 }
-
-.de-mariam-ndiaye-s {
-    height: 13px;
-    width: 144px;
-    color: #544837;
-    font-family: Montserrat;
+.voirPlus{
+    color: #179BFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 8px;
+}
+.textNext {
+    color: rgba(0,0,0,0.8);
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 12px;
+    line-height: 18px;
+    padding-right: 11px;
+}
+.textDescription{
+    opacity: 0.7;
+    color: #008DD4;
+    font-family: Futura;
     font-size: 10px;
     font-weight: 300;
     letter-spacing: 0;
-    margin-left: 50px;
+    line-height: 12px;
+    padding-right: 40px;
 }
-
-.icon-icon-checkbox-unchecked {
-    height: 24px;
-    width: 24px;
-    margin-right: 10px;
+.imgNext {
+    height: 115px;
+    width: 210px;
+    margin-top: 6px;
 }
-
-.item-2 {
-    color: #110F24;
-    font-family: Montserrat;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 20px;
+.next-savoir {
+    color: #179BFF;
+    font-size: 10px;
+    line-height: 12px;
+    margin-bottom: 16px;
 }
-
-.item-3 {
-    color: #110F24;
-    font-family: Montserrat;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 20px;
+.carousel-control-prev-icon {
+    background-image: url('../images/left.svg') !important;
 }
-
-.item-4 {
-    color: #110F24;
-    font-family: Montserrat;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 20px;
+.carousel-control-next-icon {
+    background-image: url('../images/right.svg') !important;
 }
-
-.item-4-copy {
-    color: #110F24;
-    font-family: Montserrat;
-    font-size: 14px;
-    font-weight: 300;
-    letter-spacing: 0;
-    line-height: 20px;
+.carousel-control-next, .carousel-control-prev {
+    top: 70% !important;
 }
-
-.border {
-    box-sizing: border-box;
-    height: 32px;
-    width: 255px;
-    border: 1px solid #ECECEE;
+.carousel-control-prev {
+    left: 78% !important;
+}
+.cardNext{
+    box-shadow: 0 1px 1px 0 rgba(178,178,178,0.5);
+    margin-bottom: 25px;
+    padding-top: 16px;
+    padding-bottom: 8px;
+    position: relative;
+}
+.elementPadding{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.hrModife5{
+    margin-top: -2px;
+    margin-left: -12px !important;
+    margin-right: -20px;
+    opacity: 0.7;
+}
+.promotion-Para {
+    color: #222222;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.promotion-description {
+    color: #222222;
+    font-size: 11px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.cardPromotion{
+    background: linear-gradient(270deg, #008DD4 0%, #FFFFFF 100%);
     border-radius: 4px;
-    background-color: rgba(255,255,255,0);
-    margin-left: 20px;
-    margin-bottom:10px ;
+    padding: 20px 0px 13px 17px;
+    margin-bottom: 30px;
+}
+.group-3 {
+    width: 120px;
+    position: absolute;
+    right: 0;
+}
+.elementPromotion{
+    display: flex;
+}
+.news{
+    color: #222222;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: -0.1px;
+    margin-bottom: 15px;
+}
+.lorenNews{
+    opacity: 0.7;
+    color: #222222;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0;
+    margin-bottom: 20px;
+}
+.btnDecouvre{
+    border-radius: 4px;
+    background-color: #008DD4;
+    text-transform: uppercase;
+    padding: 7px 70px;
+    margin-bottom: 15px;
+}
+.blockSearch{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.blockButtonDecouvrir{
+    text-align: center;
+}
+.blockSponsore .universite{
+    color: #222222;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.09px;
+    margin-bottom: 15px;
+}
+.blockSponsore {
+    padding-right: 100px;
+    margin-top: 30px;
+}
+.sponsore{
+    margin-bottom: 15px;
 }
