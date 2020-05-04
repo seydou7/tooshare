@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="4px" viewBox="0 0 16 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>D1E5CCE7-7030-48C2-B08E-6ED06C0B9093</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M14,0 C15.103,0 16,0.897 16,2 C16,3.103 15.103,4 14,4 C12.897,4 12,3.103 12,2 C12,0.897 12.897,0 14,0 Z M8,0 C9.103,0 10,0.897 10,2 C10,3.103 9.103,4 8,4 C6.897,4 6,3.103 6,2 C6,0.897 6.897,0 8,0 Z M2,0 C3.103,0 4,0.897 4,2 C4,3.103 3.103,4 2,4 C0.897,4 0,3.103 0,2 C0,0.897 0.897,0 2,0 Z" id="path-1"></path>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.400000006">
+        <g id="HOMEPAGE" transform="translate(-945.000000, -1038.000000)">
+            <g id="Post-APPRENANTS" transform="translate(423.000000, 1007.000000)">
+                <g id="Plus" transform="translate(520.000000, 23.000000)">
+                    <g id="Icon" transform="translate(2.000000, 8.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#919EAB" xlink:href="#path-1"></use>
+                        <g id="Color" mask="url(#mask-2)" fill="#919EAB">
+                            <g transform="translate(-2.000000, -8.000000)" id="Rectangle">
+                                <rect x="0" y="0" width="21" height="21"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
