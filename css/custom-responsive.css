@@ -141,7 +141,7 @@
     }
     .navTabsModife {
         text-align: start !important;
-        padding: 12px 20px !important;
+        padding: 12px 23px !important;
     }
     .sectionFooter {
         padding-top: 10px;
@@ -257,6 +257,72 @@
         width: 28%;
         text-align: center;
     }
+    .publicationBlock {
+        padding-top: 0;
+    }
+    .cardPub1 {
+        margin-right: 0;
+    }
+    .reaction {
+        margin-top: 10px;
+    }
+    .reactionImage {
+        width: 48%;
+    }
+    .blocNew .new-image {
+        right: 13px;
+        top: 27px;
+    }
+    .colModif1 {
+        margin-left: 0px !important;
+    }
+    .titre-cours {
+        font-size: 14px;
+        padding-top: 13px;
+    }
+    .btnModife3 {
+        font-size: 11px;
+        margin-bottom: 10px;
+        margin-top: 5px;
+    }
+    .charle {
+        font-size: 12px;
+        margin-bottom: 3px;
+    }
+    .pubCours {
+        font-size: 12px;
+    }
+    .footer-card-Block {
+        margin-top: -45px;
+        padding: 14px 5px 2px 10px;
+    }
+    .news {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .lorenNews {
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+    .btnDecouvre {
+        padding: 5px 50px;
+        margin-bottom: 13px;
+    }
+    .blockSponsore {
+        padding-right: 0;
+        margin-top: 25px;
+    }
+    .sponsore {
+        margin-bottom: 20px;
+    }
+    .cardPub1 {
+        margin-right: 0px;
+    }
+    .blockSm{
+        width: 50%;
+    }
+
+
 }
 
 @media screen and (max-width: 1023px) and (min-width: 768px) {
@@ -344,6 +410,12 @@
     }
     .filterClassInput1 {
         width: 100% !important;
+    }
+    .cardPub1 {
+     margin-right: 0;
+    }
+    .news {
+        font-size: 16px;
     }
 
 

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>08222832-684A-426F-B3A4-624AD8215DF2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M8.79926471,0.871323529 C7.62794118,0.871323529 6.52941176,1.79117647 6,2.31176471 C5.47058824,1.79117647 4.37205882,0.871323529 3.20073529,0.871323529 C1.19779412,0.871323529 0,2.03823529 0,3.99264706 C0,5.59411765 1.47352941,6.93308824 1.52647059,6.97941176 L5.65147059,10.9676471 C5.84558824,11.1551471 6.15441176,11.1551471 6.34852941,10.9676471 L10.4669118,6.99264706 C10.5264706,6.93308824 12,5.59191176 12,3.99264706 C12,2.03823529 10.8022059,0.871323529 8.79926471,0.871323529 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="12" height="12"></rect>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.603817894">
+        <g id="PAGE-PROFESSEUR---PUBLICATIONS" transform="translate(-325.000000, -2345.000000)">
+            <g id="Contenu" transform="translate(150.000000, 750.000000)">
+                <g id="Post-UNIVERSITE" transform="translate(0.000000, 985.000000)">
+                    <g id="Comment" transform="translate(24.000000, 521.000000)">
+                        <g id="Title/Title-+-Subtitle" transform="translate(52.000000, 4.000000)">
+                            <g id="Group-20">
+                                <g id="Icon+-label" transform="translate(99.000000, 84.000000)">
+                                    <g id="ic_favorite_border" transform="translate(0.000000, 1.000000)">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="Mask"></g>
+                                        <g id="🎨-color" mask="url(#mask-2)">
+                                            <mask id="mask-4" fill="white">
+                                                <use xlink:href="#path-3"></use>
+                                            </mask>
+                                            <use id="Black" fill="#202841" xlink:href="#path-3"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

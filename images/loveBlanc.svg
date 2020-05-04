@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="12px" viewBox="0 0 14 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>D85EED31-1072-41C0-A202-23069704D25A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M6.5,12.34375 L5.59375,11.51875 C2.375,8.6 0.25,6.675 0.25,4.3125 C0.25,2.3875 1.7625,0.875 3.6875,0.875 C4.775,0.875 5.81875,1.38125 6.5,2.18125 C7.18125,1.38125 8.225,0.875 9.3125,0.875 C11.2375,0.875 12.75,2.3875 12.75,4.3125 C12.75,6.675 10.625,8.6 7.40625,11.525 L6.5,12.34375 L6.5,12.34375 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="31.25" height="31.25"></rect>
+    </defs>
+    <g id="DASHBOARD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PAGE-PROFESSEUR---PUBLICATIONS" transform="translate(-174.000000, -1213.000000)">
+            <g id="Contenu" transform="translate(150.000000, 750.000000)">
+                <g id="Post-APPRENANTS" transform="translate(1.000000, 0.000000)">
+                    <g id="Icon/actions" transform="translate(22.500000, 460.500000)">
+                        <g id="Icon+-label">
+                            <g id="ic_add_a_photo" transform="translate(1.000000, 2.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Mask"></g>
+                                <g id="🎨-Color" mask="url(#mask-2)">
+                                    <g transform="translate(-9.125000, -9.125000)">
+                                        <mask id="mask-4" fill="white">
+                                            <use xlink:href="#path-3"></use>
+                                        </mask>
+                                        <use id="grise" stroke="none" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
